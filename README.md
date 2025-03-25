@@ -38,9 +38,9 @@ To use the script, follow the steps below:
 ______________________________________________________________________
 
 ***Extra info***
-	- "Remove" deletes the item from the Structured_Cache list permanently, so only click it once a mount has been collected. If you delete an item by accident, run the CacheBuilderMounts script again.
-	- I have not tested this script thoroughly enough to guarantee that it will work everyone.
-	- I added tons of comments in the scripts for readability.
-	- It's my first GitHub post, so this whole thing is probably gonna look different than what you are used to.
-	- The scripts should automatically make all the relevant JSON files for you.
+- "Remove" deletes the item from the Structured_Cache list permanently, so only click it once a mount has been collected. If you delete an item by accident, run the CacheBuilderMounts script again.
+- I have not tested this script thoroughly enough to guarantee that it will work everyone.
+- I added tons of comments in the scripts for readability.
+- It's my first GitHub post, so this whole thing is probably gonna look different than what you are used to.
+- The scripts should automatically make all the relevant JSON files for you.
 ______________________________________________________________________
